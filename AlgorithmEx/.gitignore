@@ -2,6 +2,7 @@
 ### Java ###
 # Compiled class file
 *.class
+.xml
 
 # Log file
 *.log
