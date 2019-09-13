@@ -3,7 +3,7 @@
 
 
 ### Prerequisites
-* JDK 1.0
+* JDK 1.8
 
 ### 문제 제공 웹 사이트
 [Beakoon](https://www.acmicpc.net/)
